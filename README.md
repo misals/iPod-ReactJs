@@ -1,5 +1,5 @@
-![iPod1](https://user-images.githubusercontent.com/88419331/172049404-75252fdb-19cf-48d3-9006-b2e5a12a41fa.png)
-![iPod2](https://user-images.githubusercontent.com/88419331/172049405-74bed41f-16c0-4de3-83df-19ec48aa933c.png)
+![image](https://user-images.githubusercontent.com/35091245/206447088-1f40b653-caab-4d25-a520-5e2522debad0.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
